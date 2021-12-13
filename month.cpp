@@ -11,7 +11,7 @@ int main() {
     int userMonth;
 
     // ask the user for a number
-    std::cout << "Enter the numbe for a month (i.e. 2 for February): ";
+    std::cout << "Enter the number for a month (i.e. 2 for February): ";
     std::cin >> userMonth;
 
     // state the month selected as a string
